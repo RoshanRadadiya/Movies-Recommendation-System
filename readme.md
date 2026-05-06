@@ -1,13 +1,22 @@
 # 🍿 Movie Recommendation System
 
-A movie recommendation system that suggests 5 similar movies based on your selection.
+A simple content-based movie recommendation system built with Streamlit that suggests similar movies based on your selection.
 
-## How to Run
+## 🎯 Features
 
-1. Install requirements: `pip install -r requirements.txt`
-2. Run the app: `streamlit run app.py`
-
-## Features
-- Select from 4809 movies
+- Select any movie from dropdown list of 4809 movies
 - Get 5 similar movie recommendations
-- Simple web interface
+- Simple and intuitive web interface
+
+## 🚀 How to Run
+
+### Prerequisites
+- Python 3.7 or higher
+- pip (Python package manager)
+
+### Installation Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Movie-Recommendation-System.git
+   cd Movie-Recommendation-System
