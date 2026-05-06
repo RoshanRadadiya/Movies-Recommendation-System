@@ -1,0 +1,17 @@
+__pycache__/
+myenv/
+.venv/
+*.pickle
+*.joblib
+.DS_Store
+
+echo "# Python & Virtual Environments" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "myenv/" >> .gitignore
+echo ".venv/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "" >> .gitignore
+echo "# Large data files (GitHub has 100MB limit)" >> .gitignore
+echo "*.pickle" >> .gitignore
+echo "*.joblib" >> .gitignore
+echo "*.pkl" >> .gitignore
